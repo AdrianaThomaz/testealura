@@ -1,0 +1,12 @@
+body {
+  font-family: system-ui;
+  background: #  pink;
+  color: pink;
+  text-align: center;
+}
+h1 { color: #pink; /* Cor rosa em hexadecimal */ }
+
+body { background-color: #0000FF; /* Cor azul para o fundo da tela */ }
+
+
+
